@@ -1,2 +1,2 @@
 # dancespace
-Website codes
+This repository is for Algorithms Coding, mark my learning procedure.
